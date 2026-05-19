@@ -113,12 +113,17 @@ PROJET AGENTICAI/
 └── requirements.txt
 
 ## Démonstration
+**Page d'acceuil**
 <img width="1365" height="874" alt="image" src="https://github.com/user-attachments/assets/c1847394-31e0-4780-80f3-f82612929d39" />
+**Question 1/5**
 <img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/091cbb56-12c5-41d0-b2a2-6ee556138ee9" />
-<img width="1066" height="692" alt="image" src="https://github.com/user-attachments/assets/c30e4595-b0a6-49fe-9b75-c310e04959de" />
+**Generation du rapport**
 <img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/7b898375-52e4-4b57-aa50-959a8ab31f79" />
+**Integration HTL**
 <img width="1041" height="893" alt="image" src="https://github.com/user-attachments/assets/33378e4b-beec-431b-bf4a-159bdf601799" />
+**Rapport final généré**
 <img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/2f6d798d-211c-41d3-8220-b7c8c8152637" />
+**Rapport sous format pdf**
 <img width="591" height="789" alt="image" src="https://github.com/user-attachments/assets/e3d4323d-7211-4cc1-8210-9a9b7b637457" />
 
 ## Avertissement
