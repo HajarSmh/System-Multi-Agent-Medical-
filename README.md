@@ -167,9 +167,7 @@ PROJET AGENTICAI/
 │
 ├── README.md
 └── requirements.txt
-```
 
----
 
 ## Objectif pédagogique
 
@@ -217,3 +215,26 @@ Ce projet a été réalisé dans le but d’apprendre :
 
 Ce projet est un exercice académique et pédagogique.  
 Il ne constitue pas un dispositif médical et ne remplace en aucun cas l’avis d’un professionnel de santé.
+=======
+
+## Démonstration
+**Page d'acceuil**
+<img width="1365" height="874" alt="image" src="https://github.com/user-attachments/assets/c1847394-31e0-4780-80f3-f82612929d39" />
+**Question 1/5**
+<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/091cbb56-12c5-41d0-b2a2-6ee556138ee9" />
+**Generation du rapport**
+<img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/7b898375-52e4-4b57-aa50-959a8ab31f79" />
+**Integration HTL**
+<img width="1140" height="561" alt="image" src="https://github.com/user-attachments/assets/e64db226-0062-4b7d-8f78-39e9b8f9c6c7" />
+**Rapport final généré**
+<img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/2f6d798d-211c-41d3-8220-b7c8c8152637" />
+**Rapport sous format pdf**
+<img width="591" height="789" alt="image" src="https://github.com/user-attachments/assets/e3d4323d-7211-4cc1-8210-9a9b7b637457" />
+
+## Avertissement
+Ce système est un exercice académique. Il ne remplace pas une consultation médicale.
+
+
+
+
+
