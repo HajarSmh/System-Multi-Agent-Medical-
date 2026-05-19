@@ -167,7 +167,9 @@ PROJET AGENTICAI/
 │
 ├── README.md
 └── requirements.txt
+```
 
+---
 
 ## Objectif pédagogique
 
@@ -187,27 +189,27 @@ Ce projet a été réalisé dans le but d’apprendre :
 
 ### Page d'accueil
 
-<img width="1365" height="874" alt="image" src="https://github.com/user-attachments/assets/c1847394-31e0-4780-80f3-f82612929d39" />
+<img width="1295" height="711" alt="image" src="https://github.com/user-attachments/assets/85f28ff7-95bc-4e35-87e9-764491f0cff0" />
 
 ### Question 1/5
 
-<img width="1354" height="764" alt="image" src="https://github.com/user-attachments/assets/091cbb56-12c5-41d0-b2a2-6ee556138ee9" />
+<img width="1279" height="730" alt="image" src="https://github.com/user-attachments/assets/7ff595e5-3944-481a-88b8-1d3a368116e1" />
 
 ### Génération du rapport
 
-<img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/7b898375-52e4-4b57-aa50-959a8ab31f79" />
+<img width="1384" height="747" alt="image" src="https://github.com/user-attachments/assets/c25081d5-90a5-4b8b-a634-61450ff9c96d" />
 
 ### Intégration HITL (Human-in-the-Loop)
 
-<img width="1140" height="561" alt="image" src="https://github.com/user-attachments/assets/e64db226-0062-4b7d-8f78-39e9b8f9c6c7" />
+<img width="1236" height="555" alt="image" src="https://github.com/user-attachments/assets/0566103b-f67a-41ee-91ca-abd551f98391" />
 
 ### Rapport final généré
 
-<img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/2f6d798d-211c-41d3-8220-b7c8c8152637" />
+<img width="1262" height="883" alt="image" src="https://github.com/user-attachments/assets/8c95aa8e-8043-4533-ab85-d9766ce2a085" />
 
 ### Rapport au format PDF
 
-<img width="591" height="789" alt="image" src="https://github.com/user-attachments/assets/e3d4323d-7211-4cc1-8210-9a9b7b637457" />
+<img width="735" height="859" alt="image" src="https://github.com/user-attachments/assets/9d75442a-5be1-453f-9f61-39378430c691" />
 
 ---
 
