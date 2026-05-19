@@ -186,6 +186,9 @@ Ce projet a été réalisé dans le but d’apprendre :
 ---
 
 ## Démonstration
+### Architecture du workflow multi-agents
+
+<img width="968" height="292" alt="image" src="https://github.com/user-attachments/assets/2a49ddf1-0d9b-43a5-9f87-1ab07dac9ac5" />
 
 ### Page d'accueil
 
