@@ -120,7 +120,7 @@ PROJET AGENTICAI/
 **Generation du rapport**
 <img width="1434" height="926" alt="image" src="https://github.com/user-attachments/assets/7b898375-52e4-4b57-aa50-959a8ab31f79" />
 **Integration HTL**
-<img width="1041" height="893" alt="image" src="https://github.com/user-attachments/assets/33378e4b-beec-431b-bf4a-159bdf601799" />
+<img width="1140" height="561" alt="image" src="https://github.com/user-attachments/assets/e64db226-0062-4b7d-8f78-39e9b8f9c6c7" />
 **Rapport final généré**
 <img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/2f6d798d-211c-41d3-8220-b7c8c8152637" />
 **Rapport sous format pdf**
